@@ -9,55 +9,54 @@
 
 
 ### :mortar_board: 教育经历
-<div id="expand-box-header">
-    <span style="float: left; font-weight: bold;">学校</span>
-    <span style="display: inline-block; text-align: center; width: 50%;">专业</span>
-    <span style="float: right;">日期</span>
-    <br>
+<div style="display:flex;justify-content:space-between;align-items:center;">
+    <span style="font-weight:bold;font-size: 15px;">学校</span>
+    <span style="">专业</span> 
+    <span style="">2021.09 - 2025.06</span>
 </div>
-
-
-### :wrench: 专业技能
-
-- 熟悉Java，Python，Go等编程语言
 
 ### :briefcase: 实习经历
-
-<div id="expand-box-header">
-    <span style="float: left; font-weight: bold">实习经历一</span> 
-    <span style="float: right;">2023年06月 - 2023年07月</span><br>
+<div style="display:flex;justify-content:space-between;align-items:center;">
+    <span style="font-weight:bold;">公司</span>
+    <span style="">部门</span> 
+    <span style="">2023.12 - 至今</span>
 </div>
+**背景介绍：**
+**职责描述：**
+- 职责一
 
+### :wrench: 专业技能
+- 熟悉Java，Python，Go等编程语言
 
-- 内容简述
-- 职责描述
 
 ### :computer:项目经历
 
-<div id="expand-box-header">
-    <span style="float: left; font-weight: bold">项目一</span> 
-    <span style="float: right;">2023年06月 - 2023年07月</span><br>
+<div style="display:flex;justify-content:space-between;align-items:center;">
+    <span style="font-weight:bold;">项目名一</span>
+    <span style="">2023.12 - 至今</span>
 </div>
 
+**项目介绍：**
+**职责描述：**
+- 职责一
 
-- 内容简述
-- 职责描述
-<div id="expand-box-header">
-    <span style="float: left; font-weight: bold">项目二</span> 
-    <span style="float: right;">2023年07月 - 2023年08月</span><br>
+
+<div style="display:flex;justify-content:space-between;align-items:center;">
+    <span style="font-weight:bold;">项目名二</span>
+    <span style="">2023.12 - 至今</span>
 </div>
 
-- 内容简述
-- 职责描述
+**项目介绍：**
+**职责描述：**
+- 职责一
 
 ### :globe_with_meridians:开源经历
 
 **开源经历一**
-
 - 描述
 
 ### :trophy: 获奖经历
-- 蓝桥杯三等奖
+- ACM金奖
 
 
 

@@ -19,7 +19,7 @@ markdown简历模板
 
 
 
-在typora的偏好设置中，设置导出PDF的页边距
+在typora的偏好设置中，设置导出PDF的页边距以及字体大小
 
 
 
